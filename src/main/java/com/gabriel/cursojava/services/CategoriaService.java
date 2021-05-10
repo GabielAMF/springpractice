@@ -11,7 +11,6 @@ import com.gabriel.cursojava.services.exceptions.ObjectNotFoundException;
 
 
 @Service
-
 public class CategoriaService {
 	
 	@Autowired
